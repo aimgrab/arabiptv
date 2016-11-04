@@ -1,5 +1,5 @@
-
-#EXTINF:-1,---ARABIC------------------
+#EXTM3U
+#EXTINF:-1,ARABIC
 http://esiptv.tn:7500/live/bassma/bassma/886.ts
 #EXTINF:-1,MBC1
 http://esiptv.tn:7500/live/bassma/bassma/388.ts
